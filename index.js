@@ -1,11 +1,11 @@
-import React from 'react'
+simport React from 'react'
 
-function index() {
+function  index() {
     return (
         <div>
-            
+            s
         </div>
     )
 }
 
-export default index
+export default  index
